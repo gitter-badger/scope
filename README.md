@@ -1,5 +1,5 @@
 # Scope
-javascript micro template engine
+javascript micro, nano, atomic template engine
 
 ### Fast start
 
